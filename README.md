@@ -13,10 +13,21 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ## Communities
 
+* [Data on Kubernetes](https://dok.community/) - facilitate the creation and sharing of best practices to help users advance in their DoK journey
+* [Percona Kubernetes Squad](https://percona.com/k8s) - newsletter, Ask-Me-Anything sessions and content tailored around Databases on k8s
+
 ## Databases
+
+### PostgreSQL
+
+### MySQL
+
+### MongoDB
 
 ## Storage
 
 ## Reading
+
+### 
 
 ## Courses and Videos
