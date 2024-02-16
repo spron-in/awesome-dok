@@ -20,6 +20,14 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### PostgreSQL
 
+* [Zalando PostgreSQL Operator](https://github.com/zalando/postgres-operator) - one of the first Operators for PostgreSQL, open-source, used by [Zalando](https://www.zalando.com/) internally and loved by Community
+* [Bitnami Helm Chart](https://github.com/bitnami/charts/tree/main/bitnami/postgresql) - does its job to deploy PostgreSQL through a simple helm chart
+* [Percona Operator for PostgreSQL](https://github.com/percona/percona-postgresql-operator) - 100% open source operator from [Percona](https://percona.com) with HA, cross-cluster replication and many more features. Also has official support
+* [CloudNative PG](https://github.com/cloudnative-pg/cloudnative-pg) - an open source operator from EnterpriseDB, lots of great features, flexible and does the job
+* [CrunchyData PGO](https://github.com/CrunchyData/postgres-operator) - actively developed Operator from [CrunchyData](https://www.crunchydata.com/)
+* [Tembo](https://github.com/tembo-io/tembo) - Operator powering PostgreSQL platform - [Tembo](https://tembo.io/) Cloud
+* [KubeDB](https://kubedb.com/kubernetes/databases/run-and-manage-postgres-on-kubernetes/) - swiss army knife Operator to manage various databases, including PostgreSQL
+
 ### MySQL
 
 ### MongoDB
