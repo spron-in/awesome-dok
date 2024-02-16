@@ -10,6 +10,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Storage](#storage)
 - [Reading materials](#reading)
 - [Cources and videos](#courses-and-videos)
+- [Adopters](#adopters)
 
 ## Communities
 
@@ -23,7 +24,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 * [Zalando PostgreSQL Operator](https://github.com/zalando/postgres-operator) - one of the first Operators for PostgreSQL, open-source, used by [Zalando](https://www.zalando.com/) internally and loved by Community
 * [Bitnami Helm Chart](https://github.com/bitnami/charts/tree/main/bitnami/postgresql) - does its job to deploy PostgreSQL through a simple helm chart
 * [Percona Operator for PostgreSQL](https://github.com/percona/percona-postgresql-operator) - 100% open source operator from [Percona](https://percona.com) with HA, cross-cluster replication and many more features, has official support
-* [CloudNative PG](https://github.com/cloudnative-pg/cloudnative-pg) - an open source operator from EnterpriseDB, lots of great features, flexible and does the job
+* [CloudNative PG](https://github.com/cloudnative-pg/cloudnative-pg) - an open source operator from [EnterpriseDB](https://www.enterprisedb.com/), donated to the community, lots of great features, flexible and does the job
 * [StackGres](https://github.com/ongres/stackgres) - an open source operator with web UI on top of it, supports 100+ extensions, written in Java
 * [CrunchyData PGO](https://github.com/CrunchyData/postgres-operator) - actively developed Operator from [CrunchyData](https://www.crunchydata.com/)
 * [Tembo](https://github.com/tembo-io/tembo) - Operator powering PostgreSQL platform - [Tembo](https://tembo.io/) Cloud
@@ -48,3 +49,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ### 
 
 ## Courses and Videos
+
+## Adopters
+
+List the end-user companies who adopted Data on Kubernetes. Vendor agnostic section, mention only the technology in use.
