@@ -47,7 +47,19 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 * [MongoDB Community Kubernetes Operator](https://github.com/mongodb/mongodb-kubernetes-operator) - open source solution from [MongoDB Inc.](https://www.mongodb.com/), has features for simple use cases.
 * [MongoDB Enterprise Kubernetes Operator](https://www.mongodb.com/docs/kubernetes-operator/stable/) - an enterprise version from MongoDB Inc., feature rich, can be used for production-grade deployments.
 * [Percona Operator for MongoDB](https://github.com/percona/percona-server-mongodb-operator) - 100% open source operator from [Percona](https://percona.com), feature rich and production-grade, powered by [Percona Server for MongoDB](https://www.percona.com/mongodb/software/percona-server-for-mongodb).
-* [KubeDB](https://kubedb.com/kubernetes/databases/run-and-manage-mongodb-on-kubernetes/) - swiss army knife Operator to manage various databases, including MongoDB. 
+* [KubeDB](https://kubedb.com/kubernetes/databases/run-and-manage-mongodb-on-kubernetes/) - swiss army knife Operator to manage various databases, including MongoDB.
+
+### Redis
+
+* [KubeDB](https://kubedb.com/kubernetes/databases/run-and-manage-redis-on-kubernetes/) - wiss army knife Operator to manage various databases, including Redis.
+* [Redis Operator](https://github.com/spotahome/redis-operator) - Open source solution, creates/configures/manages high availability redis with sentinel automatic failover atop Kubernetes.
+* [Redis Enterprise Operator](https://docs.redis.com/latest/kubernetes/architecture/operator/) - Operator from Redis Ltd, delivers all production grade features for Redis.
+
+### Other
+
+* [Altinity Clickhouse Operator](https://github.com/Altinity/clickhouse-operator) - Creates, configures and manages ClickHouse clusters running on Kubernetes.
+* [K8ssandra](https://k8ssandra.io/) - Platform for running Apache Cassandra® NoSQL database on Kubernetes.
+* [Strimzi](https://strimzi.io/) - Provides a way to run an Apache Kafka cluster on Kubernetes in various deployment configurations.
 
 ## Storage
 
