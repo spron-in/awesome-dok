@@ -15,6 +15,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ## Communities
 
 * [Data on Kubernetes](https://dok.community/) - facilitate the creation and sharing of best practices to help users advance in their DoK journey.
+* [SODA Foundation](https://www.sodafoundation.io/) - SODA Foundation is an open source project under Linux Foundation that aims to foster an ecosystem of open source data management and storage software for data autonomy.
 * [Percona Kubernetes Squad](https://percona.com/k8s) - newsletter, Ask-Me-Anything sessions and content tailored around Databases on k8s.
 
 ## Databases
